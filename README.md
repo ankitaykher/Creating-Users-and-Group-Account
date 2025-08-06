@@ -169,7 +169,7 @@ This lab followed:
 If you're learning Azure too — let's connect on [LinkedIn](# Creating Users & Groups in Azure Active Directory — CLI-Only Lab
 
 This project documents my hands-on experience following the lab guide from  
-📄 `Demo_09_Creating Users and Group Account.docx`,  
+📄 `Creating Users and Group Account.docx`,  
 with a twist — I completed every step manually using **Azure CLI in Bash**, not the Azure portal.
 
 ---
